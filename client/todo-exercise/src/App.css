@@ -1,0 +1,12 @@
+.todo-item {
+    margin: 1rem auto;
+    background: #3115ac;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    width: 30rem;
+    max-width: 90%;
+    text-align: center;
+    
+}

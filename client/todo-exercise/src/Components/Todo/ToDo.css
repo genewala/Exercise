@@ -1,0 +1,15 @@
+.button {
+    margin: 1rem auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    width: 30rem;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.button-input {
+    margin: auto 2rem;
+}
